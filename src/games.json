@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Minecraft",
+    "genre": "Sandbox",
+    "rating": 9.5,
+    "multiplayer": true,
+     "difficulty": "Easy",
+    "logo": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/minecraft-key-art-feature.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Rocket League",
+    "genre": "Sports",
+    "rating": 8.7,
+    "multiplayer": true,
+    "difficulty": "Hard",
+    "logo": "https://www.exitlag.com/blog/wp-content/uploads/2025/06/rocket-league-steam.webp"
+  },
+  {
+    "id": 3,
+    "title": "The Sims 4",
+    "genre": "Simulation",
+    "rating": 8.2,
+    "multiplayer": false,
+    "difficulty": "Easy",
+    "logo": "https://tse3.mm.bing.net/th/id/OIP.9zD99gHnu2wAsLLDb00fTQHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 4,
+    "title": "Fortnite",
+    "genre": "Battle Royale",
+    "rating": 8.8,
+    "multiplayer": true,
+    "difficulty": "Medium",
+    "logo": "https://cdn2.unrealengine.com/fortnite-og-social-1920x1080-a5adda66fab9.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Stardew Valley",
+    "genre": "Simulation",
+    "rating": 9.0,
+    "multiplayer": true,
+    "difficulty": "Medium",
+    "logo": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/stardew-valley.jpg"
+  }
+]
